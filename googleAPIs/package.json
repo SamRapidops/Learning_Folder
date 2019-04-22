@@ -1,0 +1,19 @@
+{
+  "name": "googleAPIs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node-dev server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.4",
+    "express-session": "1.15.6",
+    "googleapis": "37.2.0",
+    "node-dev": "3.1.3"
+  }
+}
